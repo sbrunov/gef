@@ -208,10 +208,7 @@ tools/ant-1.4.1/lib/xalan-2.0.0.jar -text
 tools/ant-1.4.1/lib/xalanj1compat.jar -text
 tools/ant-1.4.1/lib/xerces-1.2.3.jar -text
 tools/ant-1.4.1/optional.jar -text
-www/images/UCIlogo2.gif -text
-www/images/argokernel.gif -text
 www/images/bullet.gif -text
-www/images/gef.gif -text
 www/images/gef_logo.gif -text
 www/images/gef_logo_small.gif -text
 www/images/gefscreen1.gif -text
@@ -219,8 +216,6 @@ www/images/handle_ne.gif -text
 www/images/handle_nw.gif -text
 www/images/handle_se.gif -text
 www/images/handle_sw.gif -text
-www/images/jargo.gif -text
-www/images/jargoOnBeach.gif -text
 www/images/leftshadowmask.gif -text
 www/images/props.gif -text
 www/images/topshadowmask.gif -text
