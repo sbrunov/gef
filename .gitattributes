@@ -77,6 +77,7 @@ tools/ant-1.4.1/optional.jar -text
 www/images/gef_logo.gif -text
 www/images/gef_logo_small.gif -text
 www/images/gefscreen1.gif -text
+www/images/java_dot_net_member.gif -text
 www/images/props.gif -text
 www/v0.6/docs/designslides/screenshots/auxwindows.gif -text
 www/v0.6/docs/designslides/screenshots/auxwindows2.gif -text
