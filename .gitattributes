@@ -1,4 +1,7 @@
 * text=auto !eol
+lib/batik-svggenl-1.5.1.jar -text
+lib/batik-utill-1.5.1.jar -text
+lib/batik-xmll-1.5.1.jar -text
 lib/commons-logging.jar -text
 lib/log4j-1.2.6.jar -text
 lib/xerces_2_5_0.jar -text
