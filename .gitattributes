@@ -1,4 +1,5 @@
 * text=auto !eol
+lib/commons-logging.jar -text
 lib/log4j-1.2.6.jar -text
 src/org/tigris/gef/Images/ActionState.gif -text
 src/org/tigris/gef/Images/Activation.gif -text
