@@ -201,6 +201,13 @@ src/org/tigris/gef/Images/Text.gif -text
 src/org/tigris/gef/Images/ToBack.gif -text
 src/org/tigris/gef/Images/ToFront.gif -text
 src/org/tigris/gef/Images/Undo.gif -text
+tools/ant-1.4.1/lib/ant.jar -text
+tools/ant-1.4.1/lib/crimson.jar -text
+tools/ant-1.4.1/lib/jaxp.jar -text
+tools/ant-1.4.1/lib/xalan-2.0.0.jar -text
+tools/ant-1.4.1/lib/xalanj1compat.jar -text
+tools/ant-1.4.1/lib/xerces-1.2.3.jar -text
+tools/ant-1.4.1/optional.jar -text
 www/images/UCIlogo2.gif -text
 www/images/argokernel.gif -text
 www/images/bullet.gif -text
