@@ -147,6 +147,7 @@ dist/src/uci/Images/Text.gif -text
 dist/src/uci/Images/ToBack.gif -text
 dist/src/uci/Images/ToFront.gif -text
 dist/src/uci/Images/Undo.gif -text
+lib/log4j-1.2.6.jar -text
 src/org/tigris/gef/Images/ActionState.gif -text
 src/org/tigris/gef/Images/Activation.gif -text
 src/org/tigris/gef/Images/Active.gif -text
