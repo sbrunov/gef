@@ -156,7 +156,7 @@ www/images/chpmade.gif -text
 www/images/coolbutton.gif -text
 www/images/engineeringpad.gif -text
 www/images/gef.gif -text
-www/images/gef_logo.jpg -text
+www/images/gef_logo.gif -text
 www/images/gef_omt.gif -text
 www/images/gef_omt1.gif -text
 www/images/gef_omt2.gif -text
@@ -164,8 +164,10 @@ www/images/gef_omt3.gif -text
 www/images/gef_omt4.gif -text
 www/images/gef_omt5.gif -text
 www/images/gefscreen1.gif -text
-www/images/handle_left.gif -text
-www/images/handle_right.gif -text
+www/images/handle_ne.gif -text
+www/images/handle_nw.gif -text
+www/images/handle_se.gif -text
+www/images/handle_sw.gif -text
 www/images/jargo.gif -text
 www/images/jargoOnBeach.gif -text
 www/images/java_repository_logo.gif -text
