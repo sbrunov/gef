@@ -1,4 +1,15 @@
 * text=auto !eol
+lib/batik-awt-util-1.5.1.jar -text
+lib/batik-css-1.5.1.jar -text
+lib/batik-dom-1.5.1.jar -text
+lib/batik-ext-1.5.1.jar -text
+lib/batik-gui-util-1.5.1.jar -text
+lib/batik-gvt-1.5.1.jar -text
+lib/batik-parser-1.5.1.jar -text
+lib/batik-svg-dom-1.5.1.jar -text
+lib/batik-svggen-1.5.1.jar -text
+lib/batik-util-1.5.1.jar -text
+lib/batik-xml-1.5.1.jar -text
 lib/commons-logging.jar -text
 lib/log4j-1.2.6.jar -text
 lib/xerces_2_5_0.jar -text
