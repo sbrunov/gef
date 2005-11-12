@@ -1,4 +1,15 @@
 * text=auto !eol
+lib/batik-awt-util-1.5.1.jar -text
+lib/batik-css-1.5.1.jar -text
+lib/batik-dom-1.5.1.jar -text
+lib/batik-ext-1.5.1.jar -text
+lib/batik-gui-util-1.5.1.jar -text
+lib/batik-gvt-1.5.1.jar -text
+lib/batik-parser-1.5.1.jar -text
+lib/batik-svg-dom-1.5.1.jar -text
+lib/batik-svggen-1.5.1.jar -text
+lib/batik-util-1.5.1.jar -text
+lib/batik-xml-1.5.1.jar -text
 lib/commons-logging.jar -text
 lib/log4j-1.2.6.jar -text
 lib/xerces_2_5_0.jar -text
@@ -63,8 +74,6 @@ tools/ant-1.4.1/lib/xalan-2.0.0.jar -text
 tools/ant-1.4.1/lib/xalanj1compat.jar -text
 tools/ant-1.4.1/lib/xerces-1.2.3.jar -text
 tools/ant-1.4.1/optional.jar -text
-www/api/current/resources/inherit.gif -text
-www/api/dev/resources/inherit.gif -text
 www/images/gef_logo.gif -text
 www/images/gef_logo_small.gif -text
 www/images/gefscreen1.gif -text
