@@ -63,6 +63,7 @@ tools/ant-1.4.1/lib/xalan-2.0.0.jar -text
 tools/ant-1.4.1/lib/xalanj1compat.jar -text
 tools/ant-1.4.1/lib/xerces-1.2.3.jar -text
 tools/ant-1.4.1/optional.jar -text
+tools/junit-3.8.1/junit.jar -text
 www/api/current/resources/inherit.gif -text
 www/api/dev/resources/inherit.gif -text
 www/images/gef_logo.gif -text
