@@ -58,6 +58,9 @@ trunk/src/org/tigris/gef/Images/Text.gif -text
 trunk/src/org/tigris/gef/Images/ToBack.gif -text
 trunk/src/org/tigris/gef/Images/ToFront.gif -text
 trunk/src/org/tigris/gef/Images/Undo.gif -text
+trunk/src/org/tigris/gef/graph/presentation/Graph.java -text
+trunk/src/org/tigris/gef/graph/presentation/GraphFrame.java -text
+trunk/src/org/tigris/gef/graph/presentation/SplitGraphPane.java -text
 trunk/tools/ant-1.4.1/lib/ant.jar -text
 trunk/tools/ant-1.4.1/lib/crimson.jar -text
 trunk/tools/ant-1.4.1/lib/jaxp.jar -text
