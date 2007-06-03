@@ -59,6 +59,7 @@ trunk/src/org/tigris/gef/Images/ToBack.gif -text
 trunk/src/org/tigris/gef/Images/ToFront.gif -text
 trunk/src/org/tigris/gef/Images/Undo.gif -text
 trunk/src/org/tigris/gef/base/MouseEvent.java -text
+trunk/src/org/tigris/gef/base/MouseListener.java -text
 trunk/src/org/tigris/gef/graph/presentation/Graph.java -text
 trunk/src/org/tigris/gef/graph/presentation/GraphFrame.java -text
 trunk/src/org/tigris/gef/graph/presentation/JGraph.java -text
