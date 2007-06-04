@@ -70,6 +70,8 @@ trunk/src/org/tigris/gef/graph/presentation/JGraph.java -text
 trunk/src/org/tigris/gef/graph/presentation/JGraphFrame.java -text
 trunk/src/org/tigris/gef/graph/presentation/JSplitGraphPane.java -text
 trunk/src/org/tigris/gef/graph/presentation/SplitGraphPane.java -text
+trunk/src/org/tigris/gef/swing/SwingKeyEventWrapper.java -text
+trunk/src/org/tigris/gef/swing/SwingMouseEventWrapper.java -text
 trunk/tools/ant-1.4.1/lib/ant.jar -text
 trunk/tools/ant-1.4.1/lib/crimson.jar -text
 trunk/tools/ant-1.4.1/lib/jaxp.jar -text
