@@ -66,6 +66,7 @@ trunk/src/org/tigris/gef/base/MouseListener.java -text
 trunk/src/org/tigris/gef/base/MouseMotionListener.java -text
 trunk/src/org/tigris/gef/graph/presentation/Graph.java -text
 trunk/src/org/tigris/gef/graph/presentation/GraphFrame.java -text
+trunk/src/org/tigris/gef/graph/presentation/GraphInternalPane.java -text
 trunk/src/org/tigris/gef/graph/presentation/JGraph.java -text
 trunk/src/org/tigris/gef/graph/presentation/JGraphFrame.java -text
 trunk/src/org/tigris/gef/graph/presentation/JSplitGraphPane.java -text
