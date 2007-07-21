@@ -3,6 +3,7 @@ trunk/.classpath -text
 trunk/.project -text
 trunk/lib/commons-logging.jar -text
 trunk/lib/log4j-1.2.6.jar -text
+trunk/lib/swt.jar -text
 trunk/lib/xerces_2_5_0.jar -text
 trunk/lib/xml-apis.jar -text
 trunk/src/org/tigris/gef/Images/ActionState.gif -text
