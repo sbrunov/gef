@@ -65,12 +65,14 @@ trunk/src/org/tigris/gef/Images/Text.gif -text
 trunk/src/org/tigris/gef/Images/ToBack.gif -text
 trunk/src/org/tigris/gef/Images/ToFront.gif -text
 trunk/src/org/tigris/gef/Images/Undo.gif -text
+trunk/src/org/tigris/gef/base/FileDialog.java -text
 trunk/src/org/tigris/gef/base/InputEvent.java -text
 trunk/src/org/tigris/gef/base/KeyEvent.java -text
 trunk/src/org/tigris/gef/base/KeyListener.java -text
 trunk/src/org/tigris/gef/base/MouseEvent.java -text
 trunk/src/org/tigris/gef/base/MouseListener.java -text
 trunk/src/org/tigris/gef/base/MouseMotionListener.java -text
+trunk/src/org/tigris/gef/base/PopupMenu.java -text
 trunk/src/org/tigris/gef/graph/presentation/Graph.java -text
 trunk/src/org/tigris/gef/graph/presentation/GraphFrame.java -text
 trunk/src/org/tigris/gef/graph/presentation/GraphInternalPane.java -text
@@ -78,6 +80,8 @@ trunk/src/org/tigris/gef/graph/presentation/JGraph.java -text
 trunk/src/org/tigris/gef/graph/presentation/JGraphFrame.java -text
 trunk/src/org/tigris/gef/graph/presentation/JSplitGraphPane.java -text
 trunk/src/org/tigris/gef/graph/presentation/SplitGraphPane.java -text
+trunk/src/org/tigris/gef/swing/JFileDialog.java -text
+trunk/src/org/tigris/gef/swing/JPopupMenu.java -text
 trunk/src/org/tigris/gef/swing/SwingKeyEventWrapper.java -text
 trunk/src/org/tigris/gef/swing/SwingMouseEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/SwtKeyEventWrapper.java -text
