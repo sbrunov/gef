@@ -1,5 +1,4 @@
 * text=auto !eol
-trunk/.classpath -text
 trunk/.project -text
 trunk/lib/commons-logging.jar -text
 trunk/lib/gef.jar -text
