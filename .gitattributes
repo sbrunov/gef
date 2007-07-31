@@ -87,7 +87,6 @@ trunk/src/org/tigris/gef/swing/SwingMouseEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/JFileDialog.java -text
 trunk/src/org/tigris/gef/swt/JPopupMenu.java -text
 trunk/src/org/tigris/gef/swt/SavePGMLAction.java -text
-trunk/src/org/tigris/gef/swt/SavePGMLAction.java.txt -text
 trunk/src/org/tigris/gef/swt/SwtKeyEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/SwtMouseEventWrapper.java -text
 trunk/tools/ant-1.4.1/lib/ant.jar -text
