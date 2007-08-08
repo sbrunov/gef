@@ -9,11 +9,13 @@ trunk/lib/libj2d-gtk-linux-i386-2.0.0.so -text
 trunk/lib/libj2d-motif-linux-i386-2.0.0.so -text
 trunk/lib/log4j-1.2.6.jar -text
 trunk/lib/swingwt.jar -text
+trunk/lib/swingwtsrc.zip -text
 trunk/lib/swt-awt-win32-3236.dll -text
 trunk/lib/swt-gdip-win32-3236.dll -text
 trunk/lib/swt-wgl-win32-3236.dll -text
 trunk/lib/swt-win32-3236.dll -text
 trunk/lib/swt.jar -text
+trunk/lib/swtsrc.zip -text
 trunk/lib/xerces_2_5_0.jar -text
 trunk/lib/xml-apis.jar -text
 trunk/src/org/tigris/gef/Images/ActionState.gif -text
