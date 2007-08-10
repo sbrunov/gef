@@ -90,8 +90,12 @@ trunk/src/org/tigris/gef/graph/presentation/JSplitGraphPane.java -text
 trunk/src/org/tigris/gef/graph/presentation/SplitGraphPane.java -text
 trunk/src/org/tigris/gef/swing/JFileDialog.java -text
 trunk/src/org/tigris/gef/swing/JPopupMenu.java -text
+trunk/src/org/tigris/gef/swing/PaletteFig.java -text
 trunk/src/org/tigris/gef/swing/SwingKeyEventWrapper.java -text
 trunk/src/org/tigris/gef/swing/SwingMouseEventWrapper.java -text
+trunk/src/org/tigris/gef/swing/ToolBar.java -text
+trunk/src/org/tigris/gef/swt/ActionEventTranslator.java -text
+trunk/src/org/tigris/gef/swt/ActionTranslator.java -text
 trunk/src/org/tigris/gef/swt/JFileDialog.java -text
 trunk/src/org/tigris/gef/swt/JGraph.java -text
 trunk/src/org/tigris/gef/swt/JGraphFrame.java -text
@@ -100,6 +104,7 @@ trunk/src/org/tigris/gef/swt/LayerGrid.java -text
 trunk/src/org/tigris/gef/swt/OpenPGMLAction.java -text
 trunk/src/org/tigris/gef/swt/OpenSVGAction.java -text
 trunk/src/org/tigris/gef/swt/OpenWindowAction.java -text
+trunk/src/org/tigris/gef/swt/PaletteFig.java -text
 trunk/src/org/tigris/gef/swt/PrintAction.java -text
 trunk/src/org/tigris/gef/swt/SaveAction.java -text
 trunk/src/org/tigris/gef/swt/SavePGMLAction.java -text
@@ -107,6 +112,8 @@ trunk/src/org/tigris/gef/swt/SwingUtil.java -text
 trunk/src/org/tigris/gef/swt/SwtKeyEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/SwtMouseEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/SwtUtil.java -text
+trunk/src/org/tigris/gef/swt/ToolBar.java -text
+trunk/src/org/tigris/gef/ui/IToolBar.java -text
 trunk/tools/ant-1.4.1/lib/ant.jar -text
 trunk/tools/ant-1.4.1/lib/crimson.jar -text
 trunk/tools/ant-1.4.1/lib/jaxp.jar -text
