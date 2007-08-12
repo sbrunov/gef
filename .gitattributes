@@ -114,6 +114,9 @@ trunk/src/org/tigris/gef/swt/SwtMouseEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/SwtUtil.java -text
 trunk/src/org/tigris/gef/swt/ToolBar.java -text
 trunk/src/org/tigris/gef/ui/IToolBar.java -text
+trunk/tests/org/tigris/gef/test/Computer.png -text
+trunk/tests/org/tigris/gef/test/Everything.java -text
+trunk/tests/org/tigris/gef/test/pic.gif -text
 trunk/tools/ant-1.4.1/lib/ant.jar -text
 trunk/tools/ant-1.4.1/lib/crimson.jar -text
 trunk/tools/ant-1.4.1/lib/jaxp.jar -text
