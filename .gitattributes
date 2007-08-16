@@ -106,6 +106,7 @@ trunk/src/org/tigris/gef/swt/OpenSVGAction.java -text
 trunk/src/org/tigris/gef/swt/OpenWindowAction.java -text
 trunk/src/org/tigris/gef/swt/PaletteFig.java -text
 trunk/src/org/tigris/gef/swt/PrintAction.java -text
+trunk/src/org/tigris/gef/swt/ResourceLoader.java -text
 trunk/src/org/tigris/gef/swt/SaveAction.java -text
 trunk/src/org/tigris/gef/swt/SavePGMLAction.java -text
 trunk/src/org/tigris/gef/swt/SwingUtil.java -text
