@@ -93,7 +93,7 @@ trunk/src/org/tigris/gef/swing/JPopupMenu.java -text
 trunk/src/org/tigris/gef/swing/PaletteFig.java -text
 trunk/src/org/tigris/gef/swing/SwingKeyEventWrapper.java -text
 trunk/src/org/tigris/gef/swing/SwingMouseEventWrapper.java -text
-trunk/src/org/tigris/gef/swing/ToolBar.java -text
+trunk/src/org/tigris/gef/swing/SwingToolBar.java -text
 trunk/src/org/tigris/gef/swt/ActionEventTranslator.java -text
 trunk/src/org/tigris/gef/swt/ActionTranslator.java -text
 trunk/src/org/tigris/gef/swt/JFileDialog.java -text
@@ -110,10 +110,10 @@ trunk/src/org/tigris/gef/swt/ResourceLoader.java -text
 trunk/src/org/tigris/gef/swt/SaveAction.java -text
 trunk/src/org/tigris/gef/swt/SavePGMLAction.java -text
 trunk/src/org/tigris/gef/swt/SwingUtil.java -text
+trunk/src/org/tigris/gef/swt/SwingWTToolBar.java -text
 trunk/src/org/tigris/gef/swt/SwtKeyEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/SwtMouseEventWrapper.java -text
 trunk/src/org/tigris/gef/swt/SwtUtil.java -text
-trunk/src/org/tigris/gef/swt/ToolBar.java -text
 trunk/src/org/tigris/gef/ui/IToolBar.java -text
 trunk/tests/org/tigris/gef/test/Computer.png -text
 trunk/tests/org/tigris/gef/test/Everything.java -text
