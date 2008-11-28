@@ -1,6 +1,7 @@
 * text=auto !eol
 /.classpath -text
 /.project -text
+/GEF[!!-~]tests.launch -text
 lib/commons-logging.jar -text
 src/org/tigris/gef/Images/ActionState.gif -text
 src/org/tigris/gef/Images/Activation.gif -text
