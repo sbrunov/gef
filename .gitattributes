@@ -60,6 +60,7 @@ src/org/tigris/gef/Images/Text.gif -text
 src/org/tigris/gef/Images/ToBack.gif -text
 src/org/tigris/gef/Images/ToFront.gif -text
 src/org/tigris/gef/Images/Undo.gif -text
+src/org/tigris/gef/base/LayerListener.java -text
 src/org/tigris/gef/base/ModeDragScrollFactory.java -text
 src/org/tigris/gef/base/ModeFactory.java -text
 src/org/tigris/gef/base/ModePopupFactory.java -text
