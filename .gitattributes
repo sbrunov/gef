@@ -5,6 +5,7 @@
 .settings/org.eclipse.jdt.ui.prefs -text
 /GEF[!!-~]tests.launch -text
 META-INF/MANIFEST.MF -text
+/build.gradle -text
 lib/commons-logging.jar -text
 src/COPYRIGHT-NEWBSD -text
 src/org/tigris/gef/Images/ActionState.gif -text
