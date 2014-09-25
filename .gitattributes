@@ -7,6 +7,7 @@
 META-INF/MANIFEST.MF -text
 /build.gradle -text
 lib/commons-logging.jar -text
+/pom.xml -text
 src/COPYRIGHT-NEWBSD -text
 src/org/tigris/gef/Images/ActionState.gif -text
 src/org/tigris/gef/Images/Activation.gif -text
